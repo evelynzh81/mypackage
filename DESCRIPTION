@@ -1,5 +1,5 @@
 Package: mypackage
-Title: Demo Package as an Example
+Title: Demo Package as an Example. Updated Spring 2026.
 Version: 0.0.0.9000
 Authors@R: 
     person("Rick", "Brown", , "richardbrown1@suu.edu", role = c("aut", "cre"),
